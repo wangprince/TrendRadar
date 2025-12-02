@@ -1,8 +1,5 @@
 淘寶
 
-特斯拉
-马斯克
-
 微软
 Microsoft
 
@@ -33,15 +30,12 @@ ai
 !gai
 人工智能
 
-自动驾驶
-
-机器人
-
-美国
-日本
-韩国
-
 科技
 
-核能
+java
+springboot
 
+C#
+core
+
+rust
